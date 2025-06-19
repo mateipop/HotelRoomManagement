@@ -32,5 +32,5 @@ A full-stack web application built with React and Node.js that provides a platfo
 
 ### Backend
 
-* **Node.js & Express**: For building the RESTful API.
+* **Spring Boot**: For building the RESTful API.
 * **MongoDB**: As the database for storing hotel, room, booking, and review data.
